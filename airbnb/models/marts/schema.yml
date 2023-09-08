@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: source_listings_hosts
+    description: "le model"
+    columns:
+      - name: listings_id
+        description: "La cle primaire de la table"
+        tests:
+           - unique
+      

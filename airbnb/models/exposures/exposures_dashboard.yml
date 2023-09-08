@@ -1,0 +1,22 @@
+version: 2
+
+exposures:
+
+  - name: daily_airbnb
+    label: AirBnB Daily
+    type: dashboard
+    maturity: high
+
+    depends_on:
+      - ref('dim_activity_occp_12_month')
+      - ref('dim_top_host')
+      - ref('dim_license')
+      - ref('dim_short_term_rental')
+      - ref('dim_listingsper_hosts')
+      - ref('dim_room_type')
+      - source("staging","hostsparis") 
+      - source("staging","listingsparis")
+
+    owner:
+      name: Team 3
+      email: ouzediop1234@gmail.com
