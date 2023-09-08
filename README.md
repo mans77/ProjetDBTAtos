@@ -59,4 +59,4 @@ Moustapha Dioum
 
 emails:
 sorogueye93@gmail.com
-ouaediop1234@gmail.com
+ouzediop1234@gmail.com
