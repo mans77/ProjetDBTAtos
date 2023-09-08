@@ -48,7 +48,15 @@ https://app.powerbi.com/reportEmbed?reportId=067a1e47-9b35-42f3-9a69-a545f5e9661
 ![Cover](https://github.com/mans77/ProjetDBTAtos/blob/master/airbnb/assets/Hosts%20(1).png)
 
 
+
+
+
 Contributeurs
 Mansour GUEYE
 Ousseynou Diop
 Moustapha Dioum
+
+
+emails:
+sorogueye93@gmail.com
+ouaediop1234@gmail.com
