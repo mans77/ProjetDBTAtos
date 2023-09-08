@@ -45,6 +45,9 @@ le lien du projet powerbi est la si vous disposer d'un compte UCAD vous pouvez y
 https://app.powerbi.com/reportEmbed?reportId=067a1e47-9b35-42f3-9a69-a545f5e96612&autoAuth=true&ctid=991051f8-f55d-4e95-a632-64365e3fb4a3
 
 
+![Cover](https://github.com/mans77/ProjetDBTAtos/blob/master/airbnb/assets/Hosts%20(1).png)
+
+
 Contributeurs
 Mansour GUEYE
 Ousseynou Diop
